@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="32" fill="#fff3e9" />
+  <circle cx="84" cy="116" r="30" fill="#f1c26b" />
+  <circle cx="156" cy="118" r="28" fill="#f2d797" />
+  <circle cx="114" cy="76" r="20" fill="#d99d5f" />
+  <path d="M68 162c12 10 34 12 54 8 18-4 34-16 48-28" stroke="#c18747" stroke-width="8" fill="none" />
+  <text x="120" y="190" text-anchor="middle" font-size="24" fill="#a96e2d" font-family="Arial, Helvetica, sans-serif">Snacks</text>
+</svg>

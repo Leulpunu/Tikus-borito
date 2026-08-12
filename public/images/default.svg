@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="32" fill="#f5f5f5" />
+  <circle cx="120" cy="120" r="48" fill="#d1d1d1" />
+  <path d="M70 130a50 50 0 0 1 100 0" fill="none" stroke="#a0a0a0" stroke-width="10" />
+  <text x="120" y="190" text-anchor="middle" font-size="24" fill="#737373" font-family="Arial, Helvetica, sans-serif">Menu</text>
+</svg>

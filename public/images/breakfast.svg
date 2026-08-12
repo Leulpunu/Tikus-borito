@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fbe7c6" />
+      <stop offset="100%" stop-color="#f8c08c" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="32" fill="#fff7ed" />
+  <circle cx="120" cy="102" r="40" fill="#ffdd65" />
+  <ellipse cx="120" cy="166" rx="80" ry="24" fill="#e0b47c" />
+  <path d="M80 168c0 14 18 28 40 28s40-14 40-28" fill="#d29a62" />
+  <text x="120" y="52" text-anchor="middle" font-size="26" fill="#ad6b2f" font-family="Arial, Helvetica, sans-serif">Breakfast</text>
+</svg>

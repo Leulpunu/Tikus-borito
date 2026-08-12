@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="32" fill="#fff7f0" />
+  <path d="M56 156c12-20 32-78 48-94 20-20 66-28 90 4 12 16 26 80 16 100-12 26-58 30-96 22-18-4-36-18-58-32z" fill="#f5c49b" stroke="#cd9266" stroke-width="8" />
+  <path d="M68 146c14-18 28-54 42-66 14-12 54-22 70 2 10 14 20 42 18 58-2 14-18 24-36 26s-42-4-56-14-24-12-38-6z" fill="#f7e2c9" />
+  <text x="120" y="190" text-anchor="middle" font-size="24" fill="#a35d2f" font-family="Arial, Helvetica, sans-serif">Samosa</text>
+</svg>

@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "id": "prod-burrito",
+      "name": "Burrito",
+      "category": "Wraps",
+      "image": "/images/wraps.svg",
+      "unitPrice": 450,
+      "stock": 20
+    },
+    {
+      "id": "prod-chicken-wrap",
+      "name": "Chicken Wrap",
+      "category": "Wraps",
+      "image": "/images/wraps.svg",
+      "unitPrice": 400,
+      "stock": 25
+    },
+    {
+      "id": "prod-tuna-wrap",
+      "name": "Tuna Wrap",
+      "category": "Wraps",
+      "image": "/images/wraps.svg",
+      "unitPrice": 400,
+      "stock": 18
+    },
+    {
+      "id": "prod-beef-wrap",
+      "name": "Beef Wrap",
+      "category": "Wraps",
+      "image": "/images/wraps.svg",
+      "unitPrice": 400,
+      "stock": 14
+    },
+    {
+      "id": "prod-club-wrap",
+      "name": "Club Wrap",
+      "category": "Wraps",
+      "image": "/images/wraps.svg",
+      "unitPrice": 400,
+      "stock": 12
+    },
+    {
+      "id": "prod-fasting-wrap",
+      "name": "Fasting Wrap",
+      "category": "Wraps",
+      "image": "/images/wraps.svg",
+      "unitPrice": 300,
+      "stock": 20
+    },
+    {
+      "id": "prod-club-sandwich",
+      "name": "Club Sandwich",
+      "category": "Sandwiches",
+      "image": "/images/sandwiches.svg",
+      "unitPrice": 450,
+      "stock": 10
+    },
+    {
+      "id": "prod-pita-special",
+      "name": "Pita Special",
+      "category": "Sandwiches",
+      "image": "/images/sandwiches.svg",
+      "unitPrice": 350,
+      "stock": 20
+    },
+    {
+      "id": "prod-pita-normal",
+      "name": "Pita Normal",
+      "category": "Sandwiches",
+      "image": "/images/sandwiches.svg",
+      "unitPrice": 250,
+      "stock": 30
+    },
+    {
+      "id": "prod-omelette",
+      "name": "Omelette",
+      "category": "Breakfast",
+      "image": "/images/breakfast.svg",
+      "unitPrice": 300,
+      "stock": 22
+    },
+    {
+      "id": "prod-shakshuka",
+      "name": "Shakshuka",
+      "category": "Breakfast",
+      "image": "/images/breakfast.svg",
+      "unitPrice": 300,
+      "stock": 16
+    },
+    {
+      "id": "prod-cheese-beef-samosa",
+      "name": "Cheese Beef Samosa (3 pcs)",
+      "category": "Samosas",
+      "image": "/images/samosas.svg",
+      "unitPrice": 250,
+      "stock": 40
+    },
+    {
+      "id": "prod-tea",
+      "name": "Tea",
+      "category": "Drinks",
+      "image": "/images/drinks.svg",
+      "unitPrice": 60,
+      "stock": 80
+    },
+    {
+      "id": "prod-coffee",
+      "name": "Coffee",
+      "category": "Drinks",
+      "image": "/images/drinks.svg",
+      "unitPrice": 90,
+      "stock": 60
+    },
+    {
+      "id": "prod-sprite",
+      "name": "Sprite",
+      "category": "Drinks",
+      "image": "/images/drinks.svg",
+      "unitPrice": 60,
+      "stock": 70
+    },
+    {
+      "id": "prod-milk",
+      "name": "Milk",
+      "category": "Drinks",
+      "image": "/images/drinks.svg",
+      "unitPrice": 90,
+      "stock": 50
+    },
+    {
+      "id": "prod-biscuit",
+      "name": "Biscuit",
+      "category": "Snacks",
+      "image": "/images/snacks.svg",
+      "unitPrice": 40,
+      "stock": 100
+    },
+    {
+      "id": "prod-bonbolino",
+      "name": "Bonbolino",
+      "category": "Snacks",
+      "image": "/images/snacks.svg",
+      "unitPrice": 35,
+      "stock": 90
+    },
+    {
+      "id": "prod-macchiato",
+      "name": "Macchiato",
+      "category": "Snacks",
+      "image": "/images/snacks.svg",
+      "unitPrice": 85,
+      "stock": 55
+    }
+  ],
+  "orders": [
+    {
+      "id": "order-msoxkxxt-0msml7",
+      "customerName": "leul",
+      "productId": "prod-beef-wrap",
+      "productName": "Beef Wrap",
+      "quantity": 1,
+      "total": 400,
+      "status": "Served",
+      "paymentStatus": "Paid",
+      "createdAt": "2026-08-11T17:25:08.177Z"
+    }
+  ],
+  "notes": []
+}

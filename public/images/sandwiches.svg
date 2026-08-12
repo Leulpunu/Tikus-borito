@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#d2f2a3" />
+      <stop offset="100%" stop-color="#94c15a" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="32" fill="#f4f7e8" />
+  <path d="M30 110c18-20 62-30 96-28s72 20 72 40-26 42-46 42c-20 0-48-10-66-28s-40-26-56-26z" fill="#fcd2a3" stroke="#d8b196" stroke-width="6" />
+  <path d="M40 118c18-16 52-24 84-24s60 12 64 28-22 24-38 24-40-6-56-18-42-12-54-10z" fill="#d98f60" />
+  <text x="120" y="146" text-anchor="middle" font-size="26" fill="#7a4c2c" font-family="Arial, Helvetica, sans-serif">Sandwich</text>
+</svg>
